@@ -52,7 +52,7 @@ def main():
     log_header.append(',SHORT_FUEL_TRIM_1')
     log_header.append(',LONG_FUEL_TRIM_1')
     log_header.append(',INTAKE_PRESSURE')
-    log_header.append(',RPM'
+    log_header.append(',RPM')
     log_header.append(',SPEED')
     log_header.append(',TIMING_ADVANCE')
     log_header.append(',INTAKE_TEMP')
